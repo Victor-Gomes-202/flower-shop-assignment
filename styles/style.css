@@ -114,6 +114,35 @@ body {
     font-weight: 500;
 }
 
+.hd-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background: rgba(229, 84, 115, 5%);
+    margin-top: 200px;
+    padding: 50px;
+}
+
+.hd-text{
+    margin-left: 150px;
+}
+.hd-img{
+    margin-right: 150px;
+}
+.text-red{
+    color: #E55473;
+}
+.hd-text h3{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.hd-text p{
+    margin-bottom: 30px;
+}
+
+
+
 /* .img-1{
     width: 464px;
     height: 550px;
