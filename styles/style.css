@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    
+}
+.banner {
+    padding: 50px 200px 0;
+    display: flex;
+    background-color: rgba(229, 84, 115, 10%);
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner-img img{
+    width: 500px;
+}
+.banner-text h3{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.banner-text p{
+    
+}
