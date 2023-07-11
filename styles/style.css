@@ -48,7 +48,7 @@ body {
     text-align: center;
 }
 .featured-flw-text h3{
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     font-size: 40px;
 }
 .featured-flw-img{
@@ -140,8 +140,17 @@ body {
 .hd-text p{
     margin-bottom: 30px;
 }
-
-
+.insta-sec{
+    margin-top: 100px;
+}
+.insta-sec-img{
+    margin: 50px 120px 20px;
+    display: flex;
+    justify-content: space-around;   
+}
+.insta-sec-img img{
+    width: 300px;
+}
 
 /* .img-1{
     width: 464px;
